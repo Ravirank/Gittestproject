@@ -1,0 +1,4 @@
+<?oph
+
+echo "hello";
+?>
